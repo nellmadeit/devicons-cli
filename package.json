@@ -1,0 +1,29 @@
+{
+  "name": "devicons-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for installing DevIconArt by NellMadeIt",
+  "type": "module",
+  "bin": {
+    "devicons": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellmadeit/devicons-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "icons",
+    "art",
+    "devicons",
+    "nellmadeit"
+  ],
+  "author": "nellmadeit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nellmadeit/devicons-cli/issues"
+  },
+  "homepage": "https://github.com/nellmadeit/devicons-cli#readme"
+}
